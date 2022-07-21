@@ -14,7 +14,7 @@ import asyncio
 from pars import ParserTelegramm
 from fsm_config import*
 
-
+#проверка github
 def record(): 
     global users_data
     
